@@ -39,7 +39,7 @@ Created a simple AI Chatbot capable of interacting with users and responding to 
 
 ---
 
-## Task 3: Product Recommendation System
+## Task 3: Recommendation System
 
 Built a recommendation system that suggests products to users based on their selected interests and categories.
 
@@ -66,14 +66,14 @@ Open terminal or command prompt in the project folder and run the following comm
 
 
 
-## Run Tic-Tac-Toe AI
+## Tic-Tac-Toe AI
 
 ```bash
 python tic_tac_toe_ai.py
 ```
 
 
-## Run AI Chatbot
+## AI Chatbot
 
 ```bash
 python chatbot.py
@@ -81,7 +81,7 @@ python chatbot.py
 
 
 
-## Run Product Recommendation System
+## Recommendation System
 
 ```bash
 python recommendation_system.py
