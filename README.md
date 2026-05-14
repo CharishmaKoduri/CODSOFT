@@ -88,7 +88,7 @@ python recommendation_system.py
 ```
 
 
-## Requirements
+### Requirements
 
 Install required libraries before running the projects.
 
@@ -105,15 +105,15 @@ Python 3.8 or above
 ---
 
 
-## Contributing
+# Contributing
 
 This repository primarily serves as a record of my internship tasks and learning journey. Suggestions, improvements, and collaborations are always welcome. Feel free to open an issue or submit a pull request if you have any valuable ideas or enhancements.
 
 ---
 
-## Author
 
-CodSoft AI Internship Submission Project
+
+**CodSoft AI Internship Submission Project**
 
 Developed by Koduri Charishma
 
